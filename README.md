@@ -7,4 +7,4 @@ lifestyle, and learning new things. It will promote tourism across the globe and
 restaurants to the map at the global level. We used technology for Front-end ReactJS, HTML, CSS, JavaScript, and
 Material-UI For Back-end Place API, Maps JavaScript API, Travel Advisor API, and Open Weather Map API.
 
-###**Live Link- ** [explore-restaurants-nearby](https://travel-advisor-jsm.netlify.app/)
+*Live Link:* [explore-restaurants-nearby](https://travel-advisor-jsm.netlify.app/)
